@@ -8,10 +8,14 @@
 - Fã do estilo week e tecnologico 
 - Gosto de projetos que contenham robotica e etc
 
----
-##Tecnologias que conheco
 
+## Tecnologias que conheço
 
+Java Script
+
+Python
+
+Linux
 
 
 ---
